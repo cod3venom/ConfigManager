@@ -1,0 +1,9 @@
+C:\Users\Tengo\source\repos\ConfigManager\ConfigManager\bin\Debug\ConfigManager.dll
+C:\Users\Tengo\source\repos\ConfigManager\ConfigManager\bin\Debug\ConfigManager.pdb
+C:\Users\Tengo\source\repos\ConfigManager\ConfigManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tengo\source\repos\ConfigManager\ConfigManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tengo\source\repos\ConfigManager\ConfigManager\obj\Debug\ConfigManager.csproj.AssemblyReference.cache
+C:\Users\Tengo\source\repos\ConfigManager\ConfigManager\obj\Debug\ConfigManager.csproj.CoreCompileInputs.cache
+C:\Users\Tengo\source\repos\ConfigManager\ConfigManager\obj\Debug\ConfigManager.csproj.CopyComplete
+C:\Users\Tengo\source\repos\ConfigManager\ConfigManager\obj\Debug\ConfigManager.dll
+C:\Users\Tengo\source\repos\ConfigManager\ConfigManager\obj\Debug\ConfigManager.pdb
